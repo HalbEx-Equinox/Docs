@@ -1,2 +1,4 @@
-# Docs
-Research Material
+<p align="centre">
+  <h3 align="centre">Research material</h3>
+<br />NEO-6M pdf has a summary of the stuff I read up on the gps module (NEO-6M)
+<br />sx1276_77_78_79.pdf is the datasheet for the chip used in LORA RA-02 transceiver which is the sx1278
